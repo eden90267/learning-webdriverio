@@ -1,6 +1,14 @@
 # WebDriverIO 實戰練習 - 登入登出
 
+## 測試案例：
 
+```
+url：http://demo.keystonejs.com/keystone/signin
+帳號：demo@keystonejs.com
+密碼：demo
+```
+
+## Code：
 
 ```javascript
 // test/specs/sign.test.js
@@ -48,4 +56,10 @@ describe('第一個前端測試程式', function () {
     assert.equal('You have been signed out.', infoText);
   });
 });
+```
+
+## 執行
+
+```shell
+npm test
 ```
