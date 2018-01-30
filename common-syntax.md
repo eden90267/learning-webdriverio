@@ -1,6 +1,6 @@
 # WebDriverIO 常用指令 (API) 語法
 
-[](http://webdriver.io/api.html)
+[http://webdriver.io/api.html](http://webdriver.io/api.html)
 
 ## 指令種類
 

@@ -5,7 +5,7 @@
 - 支援多 browser：Firebox、Chrome、IE、Edge..
 - 支援多平台：Mac、Window、Linux
 - 支援多語言：Java、Python、Ruby、C#、Javascript、C++
-- [](https://github.com/christian-bromann/awesome-selenium)
+- [https://github.com/christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 
 ## 優點
 

@@ -7,7 +7,7 @@ TDD 是一種程式開發的技巧，簡單來說就是**先寫測試程式**，
   - 使用者和工程師用同一種語言，避免溝通成本
   - 測試後的輸出結果可以直接作為文件閱讀
 
-[](http://www.agilenutshell.com/assets/test-driven-development/tdd-circle-of-life.png)
+![](http://www.agilenutshell.com/assets/test-driven-development/tdd-circle-of-life.png)
 
 剛開始寫測試時先定義 function 的輸入輸出，一開始測試會 Test fail，實作 function 後能讓測試能順利通過，實作完成為了增加程式碼的可讀性、重用性、效能等等因素重構，導致 Test fail 直至重構完成，測試能快速驗證重構後的結果，不會導致其他狀況發生，形成 TDD 的正向循環。
 

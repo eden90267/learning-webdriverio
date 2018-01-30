@@ -5,13 +5,13 @@
 
 ## 安裝瀏覽器驅動程式 (driver)
 
-至 [](http://www.seleniumhq.org/download/) 下載
+至 [http://www.seleniumhq.org/download/](http://www.seleniumhq.org/download/) 下載
 
 ## 安裝 Selenium Server
 
 ### 方法一
 
-至 [](http://www.seleniumhq.org/download/) 下載 selenium-server-standalone-3.4.0.jar 檔
+至 [http://www.seleniumhq.org/download/](http://www.seleniumhq.org/download/) 下載 selenium-server-standalone-3.4.0.jar 檔
 
 ### 方法二
 
@@ -31,7 +31,7 @@ webdriver-manager update
 java -jar selenium-server-standalone-3.4.0.jar
 ```
 
-[](http://127.0.0.1:4444/wd/hub)
+[http://127.0.0.1:4444/wd/hub](http://127.0.0.1:4444/wd/hub)
 
 ### 方法二
 
